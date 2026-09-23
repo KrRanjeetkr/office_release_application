@@ -1,7 +1,7 @@
 {
-  "versionCode": 62,
-  "versionName": "7.2",
-  "apkUrl": "https://github.com/KrRanjeetkr/office_release_application/releases/download/v7.2/app_update.apk",
+  "versionCode": 85,
+  "versionName": "8.5",
+  "apkUrl": "https://github.com/KrRanjeetkr/office_release_application/releases/download/v8.5/app_update.apk",
   "forceUpdate": true,
   "message": "New version available. Please update to continue using the app."
 }
